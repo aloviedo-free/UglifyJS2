@@ -28,6 +28,8 @@ From NPM for programmatic use:
 
     uglifyjs [input files] [options]
 
+fixing stuff
+
 UglifyJS can take multiple input files.  It's recommended that you pass the
 input files first, then pass the options.  UglifyJS will parse input files
 in sequence and apply any compression options.  The files are parsed in the
